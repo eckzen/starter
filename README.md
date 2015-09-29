@@ -60,8 +60,7 @@ In the browser
 + .gitignore
 + .jshintrc
 + node_modules
-+ process
-    * sass
++ sass
         - modules
         - style.scss
         - _base.scss
