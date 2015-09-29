@@ -9,10 +9,10 @@
     - [ruby](http://gulpjs.com/)
 
 2. Clone this repository into your local machine using the terminal (mac) or Gitbash (PC) `> git@github.com:eckzen/starter.git`
-3. CD to the folder `cd sassEssentials`
+3. CD to the folder `cd starter`
 4. Run `> npm-install` to install the project dependencies
 5. Install gulp.js via the Mac terminal or Gitbash on a PC `> npm install -g gulp`
-5. Run the Gulp command `> gulp`
+6. Run the Gulp command `> gulp`
 
 ##If i am going to create a new gulp from scratch
 
