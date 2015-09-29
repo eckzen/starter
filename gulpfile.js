@@ -11,7 +11,7 @@ gulp.task('js', function() {
 });
 
 gulp.task('sass', function () {
-    return sass('process/sass/style.scss', {
+    return sass('sass/style.scss', {
       sourcemap: true,
       style: 'expanded'
     })
@@ -24,7 +24,7 @@ gulp.task('sass', function () {
 
 gulp.task('watch', function() {
   gulp.watch('builds/js/**/*', ['js']);
-  gulp.watch(['process/sass/**/*'], ['sass']);
+  gulp.watch(['sass/**/*'], ['sass']);
 });
 
 gulp.task('webserver', function() {
