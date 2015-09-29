@@ -61,13 +61,13 @@ In the browser
 + .jshintrc
 + node_modules
 + sass
-        - modules
-        - style.scss
-        - _base.scss
-        - _interface.scss
-        - _mixins.scss
-        - _normalize.scss
-        - _variables.scss
+    * modules
+    * style.scss
+    * _base.scss
+    * _interface.scss
+    * _mixins.scss
+    * _normalize.scss
+    * _variables.scss
 + builds
     * index.html
     * images
